@@ -10,3 +10,5 @@ file 1
 
 update file1 from b2
 >>>>>>> commit b2-1
+
+24. update file1 from branch b3
